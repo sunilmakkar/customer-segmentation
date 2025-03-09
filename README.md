@@ -1,6 +1,6 @@
 # **Customer Segmentation Analysis for a UK E-commerce Store**
 
-**Author:** [Your Name], Data Analyst  
+**Author:** Sunil Makkar, Data Analyst  
 **Date of Submission:** March 09, 2025  
 **Dataset:** Online Retail II (2009-2011)  
 
